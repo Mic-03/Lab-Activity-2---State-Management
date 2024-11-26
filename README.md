@@ -1,2 +1,3 @@
 # Lab Activity 2 - State Management
  
+Jadi pada ephemeral_state_codelab hanya dapat melakukan pertambahan dalam aplikasi sedangkan app_state_codelab dapat melakukan pertambahan dan pengurangan. Kesimpulannya jika kita mau membuat fitur keranjang belanja pada aplikasi atau fitur lainnya lebih baik menggunakan app_state_codelab karena dapat melakukan penambahan dan pengurangan yang dimana lebih efisien dan lebih mudah digunakan
